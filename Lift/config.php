@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
 $dbname = 'shoptitle';
-$username = 'root'; // Change to your DB username
-$password = '';     // Change to your DB password
+$username = 'root';  
+$password = '';      
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
