@@ -1,0 +1,864 @@
+[18-Dec-2025 23:44:53 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:45:06 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:45:34 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:45:49 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:46:31 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:47:50 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:48:12 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:49:18 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[18-Dec-2025 23:49:35 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] Update received: {"update_id":611241004,"message":{"message_id":36,"from":{"id":7559570162,"is_bot":false,"first_name":"Yg","username":"Yadaelaha","language_code":"en"},"chat":{"id":7559570162,"first_name":"Yg","username":"Yadaelaha","type":"private"},"date":1766091903,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] Message from user 7559570162: /start
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] State loaded: broadcast
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:05:03 Africa/Addis_Ababa] Unauthorized access attempt from user 7559570162
+[19-Dec-2025 00:05:04 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] Update received: {"update_id":611241005,"message":{"message_id":38,"from":{"id":7559570162,"is_bot":false,"first_name":"Yg","username":"Yadaelaha","language_code":"en"},"chat":{"id":7559570162,"first_name":"Yg","username":"Yadaelaha","type":"private"},"date":1766091907,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] Message from user 7559570162: /start
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] State loaded: broadcast
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] Unauthorized access attempt from user 7559570162
+[19-Dec-2025 00:05:07 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Update received: {"update_id":611241006,"message":{"message_id":40,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766091912,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Message from user 8096988441: /start
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Handling message: /start
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] State cleared
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] Quick stats error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 00:05:13 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Update received: {"update_id":611241007,"message":{"message_id":41,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766091920,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Message from user 8096988441: /start
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Handling message: /start
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] State cleared
+[19-Dec-2025 00:05:20 Africa/Addis_Ababa] Quick stats error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[19-Dec-2025 00:05:21 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 00:05:21 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] Update received: {"update_id":611241008,"message":{"message_id":42,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766091948,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] Message from user 8096988441: /start
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] Handling message: /start
+[19-Dec-2025 00:05:48 Africa/Addis_Ababa] State cleared
+[19-Dec-2025 00:05:49 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 00:05:49 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] Update received: {"update_id":611241009,"message":{"message_id":43,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766091972,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] Message from user 8096988441: /start
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] Handling message: /start
+[19-Dec-2025 00:06:12 Africa/Addis_Ababa] State cleared
+[19-Dec-2025 00:06:13 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 00:06:13 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 00:07:25 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 00:07:25 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] Update received: {"update_id":611241010,"message":{"message_id":44,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766092045,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] Message from user 8096988441: /start
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] Handling message: /start
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] State cleared
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] Quick stats error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 00:07:26 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] ========== Admin Bot Request Start ==========
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Database connected successfully
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Admin tables created/verified successfully
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Update received: {"update_id":611241011,"message":{"message_id":45,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766095568,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Message from user 8096988441: /start
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Admin bot initialized successfully
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Handling message: /start
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] State cleared
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] Quick stats error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[19-Dec-2025 01:06:09 Africa/Addis_Ababa] ========== Admin Bot Request End ==========
+[20-Dec-2025 01:20:08 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:20:08 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:20:08 Africa/Addis_Ababa] Update: {"update_id":611241012,"message":{"message_id":46,"from":{"id":7559570162,"is_bot":false,"first_name":"Yg","username":"Yadaelaha","language_code":"en"},"chat":{"id":7559570162,"first_name":"Yg","username":"Yadaelaha","type":"private"},"date":1766182807,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:20:08 Africa/Addis_Ababa] Message from 7559570162: /start
+[20-Dec-2025 01:20:08 Africa/Addis_Ababa] Unauthorized: 7559570162
+[20-Dec-2025 01:20:08 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:20:15 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:20:15 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:20:15 Africa/Addis_Ababa] Update: {"update_id":611241013,"message":{"message_id":48,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182815,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:20:15 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:20:16 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:20:21 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:20:21 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:20:21 Africa/Addis_Ababa] Update: {"update_id":611241014,"callback_query":{"id":"7106184442089383695","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 0\n\ud83d\udd25 Active: 0\n\ud83d\udea8 Reports: 0\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 01:20:21 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 01:20:22 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 01:20:22 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:20:26 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:20:26 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:20:26 Africa/Addis_Ababa] Update: {"update_id":611241015,"callback_query":{"id":"7106184440829794561","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766182822,"text":"\ud83d\udc65 USER LIST\nPage 1\/1\n\nNo users found.","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:20:26 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:20:27 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:20:27 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:20:29 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:20:29 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:20:29 Africa/Addis_Ababa] Update: {"update_id":611241016,"callback_query":{"id":"7106184443889828403","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766182827,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 0\n\ud83d\udd25 Active: 0\n\ud83d\udea8 Reports: 0\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports"}}
+[20-Dec-2025 01:20:29 Africa/Addis_Ababa] Callback from 8096988441: reports
+[20-Dec-2025 01:20:29 Africa/Addis_Ababa] Callback action: reports, param: none
+[20-Dec-2025 01:20:30 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:20:31 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:20:31 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:20:31 Africa/Addis_Ababa] Update: {"update_id":611241017,"callback_query":{"id":"7106184443622481237","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766182830,"text":"\ud83d\udea8 PENDING REPORTS\n\n\u2705 No pending reports!","entities":[{"offset":3,"length":15,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:20:31 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:20:31 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:20:32 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:06 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:06 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:06 Africa/Addis_Ababa] Update: {"update_id":611241018,"callback_query":{"id":"7106184441105144764","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766182832,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 0\n\ud83d\udd25 Active: 0\n\ud83d\udea8 Reports: 0\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"stats"}}
+[20-Dec-2025 01:23:06 Africa/Addis_Ababa] Callback from 8096988441: stats
+[20-Dec-2025 01:23:07 Africa/Addis_Ababa] Callback action: stats, param: none
+[20-Dec-2025 01:23:08 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:18 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:18 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:18 Africa/Addis_Ababa] Update: {"update_id":611241019,"callback_query":{"id":"7106184442037914416","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766182987,"text":"\ud83d\udcca STATISTICS\n\nUsers\nTotal: 2\nActive 24h: 2\nNew 7d: 2\n\nGender\n\ud83d\udc68 Male: 1 (50%)\n\ud83d\udc69 Female: 1 (50%)\n\nCups\nTotal: 5\nAdded today: +6\nUsed today: -1\n\nMatching\nActive chats: 1\nToday: 1\n\nReports\nPending: 0\n\nUpdated: Dec 20, 01:23","entities":[{"offset":3,"length":10,"type":"bold"},{"offset":15,"length":5,"type":"bold"},{"offset":55,"length":6,"type":"bold"},{"offset":99,"length":4,"type":"bold"},{"offset":145,"length":8,"type":"bold"},{"offset":180,"length":7,"type":"bold"},{"offset":200,"length":22,"type":"italic"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"stats"}],[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:23:18 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:23:18 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:23:19 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:21 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:21 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:21 Africa/Addis_Ababa] Update: {"update_id":611241020,"callback_query":{"id":"7106184442593703864","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766182999,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 0\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 01:23:21 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 01:23:21 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 01:23:22 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:31 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:31 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:31 Africa/Addis_Ababa] Update: {"update_id":611241021,"callback_query":{"id":"7106184443358377401","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766183002,"text":"\ud83d\udc65 USER LIST\nPage 1\/1\n\n\ud83d\udc69 Uuy Jjjj\nID: 491989978 \u2022 60y \u2022 \u2615\ufe0f3\n@Yyik58ll\n\n\ud83d\udc68 Hh Ggh\nID: 7559570162 \u2022 66y \u2022 \u2615\ufe0f2\n@Yadaelaha","entities":[{"offset":3,"length":9,"type":"bold"},{"offset":39,"length":9,"type":"code"},{"offset":61,"length":9,"type":"mention"},{"offset":86,"length":10,"type":"code"},{"offset":109,"length":10,"type":"mention"}],"reply_markup":{"inline_keyboard":[[{"text":"1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:23:31 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:23:32 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:23:32 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:36 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:36 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:36 Africa/Addis_Ababa] Update: {"update_id":611241022,"callback_query":{"id":"7106184442287113066","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766183012,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 0\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"analytics"}}
+[20-Dec-2025 01:23:36 Africa/Addis_Ababa] Callback from 8096988441: analytics
+[20-Dec-2025 01:23:37 Africa/Addis_Ababa] Callback action: analytics, param: none
+[20-Dec-2025 01:23:37 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:41 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:41 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:41 Africa/Addis_Ababa] Update: {"update_id":611241023,"callback_query":{"id":"7106184440270461404","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766183017,"text":"\ud83d\udcc8 ANALYTICS\n\nUser Growth (7 days)\nDec 19: 2 new\n\nAge Distribution\n35+: 2 users","entities":[{"offset":3,"length":9,"type":"bold"},{"offset":14,"length":20,"type":"bold"},{"offset":50,"length":16,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"analytics"}],[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:23:41 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:23:41 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:23:42 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:23:44 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:23:44 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:23:44 Africa/Addis_Ababa] Update: {"update_id":611241024,"callback_query":{"id":"7106184443366472388","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":49,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766182816,"edit_date":1766183022,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 0\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"add_cups"}}
+[20-Dec-2025 01:23:44 Africa/Addis_Ababa] Callback from 8096988441: add_cups
+[20-Dec-2025 01:23:45 Africa/Addis_Ababa] Callback action: add_cups, param: none
+[20-Dec-2025 01:23:45 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:25:51 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:25:51 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:25:51 Africa/Addis_Ababa] Update: {"update_id":611241025,"message":{"message_id":51,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183150,"text":"0491989978","entities":[{"offset":0,"length":10,"type":"phone_number"}]}}
+[20-Dec-2025 01:25:51 Africa/Addis_Ababa] Message from 8096988441: 0491989978
+[20-Dec-2025 01:25:51 Africa/Addis_Ababa] State input: add_cups_user -> 0491989978
+[20-Dec-2025 01:25:52 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:25:57 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:25:57 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:25:57 Africa/Addis_Ababa] Update: {"update_id":611241026,"message":{"message_id":53,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183157,"text":"10"}}
+[20-Dec-2025 01:25:57 Africa/Addis_Ababa] Message from 8096988441: 10
+[20-Dec-2025 01:25:57 Africa/Addis_Ababa] State input: add_cups_amount -> 10
+[20-Dec-2025 01:25:58 Africa/Addis_Ababa] API sendMessage failed: HTTP 400
+[20-Dec-2025 01:25:58 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:11 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:11 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:11 Africa/Addis_Ababa] Update: {"update_id":611241027,"message":{"message_id":55,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183171,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:26:11 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:26:12 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:16 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:17 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:17 Africa/Addis_Ababa] Update: {"update_id":611241028,"message":{"message_id":57,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183176,"text":"67"}}
+[20-Dec-2025 01:26:17 Africa/Addis_Ababa] Message from 8096988441: 67
+[20-Dec-2025 01:26:17 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:23 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:23 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:23 Africa/Addis_Ababa] Update: {"update_id":611241029,"callback_query":{"id":"7106184441943606413","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":56,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183172,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports"}}
+[20-Dec-2025 01:26:23 Africa/Addis_Ababa] Callback from 8096988441: reports
+[20-Dec-2025 01:26:24 Africa/Addis_Ababa] Callback action: reports, param: none
+[20-Dec-2025 01:26:24 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[20-Dec-2025 01:26:24 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:29 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:29 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:29 Africa/Addis_Ababa] Update: {"update_id":611241030,"callback_query":{"id":"7106184439653095492","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":56,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183172,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports"}}
+[20-Dec-2025 01:26:29 Africa/Addis_Ababa] Callback from 8096988441: reports
+[20-Dec-2025 01:26:29 Africa/Addis_Ababa] Callback action: reports, param: none
+[20-Dec-2025 01:26:30 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[20-Dec-2025 01:26:30 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:32 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:32 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:32 Africa/Addis_Ababa] Update: {"update_id":611241031,"message":{"message_id":59,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183192,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:26:32 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:26:33 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:34 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:34 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:34 Africa/Addis_Ababa] Update: {"update_id":611241032,"callback_query":{"id":"7106184443392258846","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports"}}
+[20-Dec-2025 01:26:34 Africa/Addis_Ababa] Callback from 8096988441: reports
+[20-Dec-2025 01:26:35 Africa/Addis_Ababa] Callback action: reports, param: none
+[20-Dec-2025 01:26:35 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[20-Dec-2025 01:26:35 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:37 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:37 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:37 Africa/Addis_Ababa] Update: {"update_id":611241033,"callback_query":{"id":"7106184439852581478","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"stats"}}
+[20-Dec-2025 01:26:37 Africa/Addis_Ababa] Callback from 8096988441: stats
+[20-Dec-2025 01:26:38 Africa/Addis_Ababa] Callback action: stats, param: none
+[20-Dec-2025 01:26:38 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:40 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:40 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:40 Africa/Addis_Ababa] Update: {"update_id":611241034,"callback_query":{"id":"7106184441760334212","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"edit_date":1766183198,"text":"\ud83d\udcca STATISTICS\n\nUsers\nTotal: 2\nActive 24h: 2\nNew 7d: 2\n\nGender\n\ud83d\udc68 Male: 1 (50%)\n\ud83d\udc69 Female: 1 (50%)\n\nCups\nTotal: 5\nAdded today: +16\nUsed today: -1\n\nMatching\nActive chats: 0\nToday: 1\n\nReports\nPending: 1\n\nUpdated: Dec 20, 01:26","entities":[{"offset":3,"length":10,"type":"bold"},{"offset":15,"length":5,"type":"bold"},{"offset":55,"length":6,"type":"bold"},{"offset":99,"length":4,"type":"bold"},{"offset":146,"length":8,"type":"bold"},{"offset":181,"length":7,"type":"bold"},{"offset":201,"length":22,"type":"italic"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"stats"}],[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:26:40 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:26:41 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:26:41 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:43 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:43 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:43 Africa/Addis_Ababa] Update: {"update_id":611241035,"callback_query":{"id":"7106184442136456776","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"edit_date":1766183201,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports"}}
+[20-Dec-2025 01:26:43 Africa/Addis_Ababa] Callback from 8096988441: reports
+[20-Dec-2025 01:26:43 Africa/Addis_Ababa] Callback action: reports, param: none
+[20-Dec-2025 01:26:44 Africa/Addis_Ababa] API editMessageText failed: HTTP 400
+[20-Dec-2025 01:26:44 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:45 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:45 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:45 Africa/Addis_Ababa] Update: {"update_id":611241036,"callback_query":{"id":"7106184442161588100","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"edit_date":1766183201,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"analytics"}}
+[20-Dec-2025 01:26:45 Africa/Addis_Ababa] Callback from 8096988441: analytics
+[20-Dec-2025 01:26:46 Africa/Addis_Ababa] Callback action: analytics, param: none
+[20-Dec-2025 01:26:47 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:48 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:48 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:48 Africa/Addis_Ababa] Update: {"update_id":611241037,"callback_query":{"id":"7106184442593728169","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"edit_date":1766183206,"text":"\ud83d\udcc8 ANALYTICS\n\nUser Growth (7 days)\nDec 19: 2 new\n\nAge Distribution\n35+: 2 users","entities":[{"offset":3,"length":9,"type":"bold"},{"offset":14,"length":20,"type":"bold"},{"offset":50,"length":16,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"analytics"}],[{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:26:48 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:26:49 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:26:49 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:26:53 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:26:53 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:26:53 Africa/Addis_Ababa] Update: {"update_id":611241038,"callback_query":{"id":"7106184441391801426","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"edit_date":1766183209,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"ban_user"}}
+[20-Dec-2025 01:26:53 Africa/Addis_Ababa] Callback from 8096988441: ban_user
+[20-Dec-2025 01:26:53 Africa/Addis_Ababa] Callback action: ban_user, param: none
+[20-Dec-2025 01:26:54 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:27:43 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:27:43 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:27:43 Africa/Addis_Ababa] Update: {"update_id":611241039,"callback_query":{"id":"7106184441331390953","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":60,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183193,"edit_date":1766183209,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"add_cups"}}
+[20-Dec-2025 01:27:43 Africa/Addis_Ababa] Callback from 8096988441: add_cups
+[20-Dec-2025 01:27:44 Africa/Addis_Ababa] Callback action: add_cups, param: none
+[20-Dec-2025 01:27:45 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:27:46 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:27:46 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:27:46 Africa/Addis_Ababa] Update: {"update_id":611241040,"message":{"message_id":63,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183266,"text":"7559570162"}}
+[20-Dec-2025 01:27:46 Africa/Addis_Ababa] Message from 8096988441: 7559570162
+[20-Dec-2025 01:27:46 Africa/Addis_Ababa] State input: add_cups_user -> 7559570162
+[20-Dec-2025 01:27:47 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:27:49 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:27:49 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:27:49 Africa/Addis_Ababa] Update: {"update_id":611241041,"message":{"message_id":65,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183268,"text":"20"}}
+[20-Dec-2025 01:27:49 Africa/Addis_Ababa] Message from 8096988441: 20
+[20-Dec-2025 01:27:49 Africa/Addis_Ababa] State input: add_cups_amount -> 20
+[20-Dec-2025 01:27:49 Africa/Addis_Ababa] API sendMessage failed: HTTP 400
+[20-Dec-2025 01:27:50 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:28:42 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:28:42 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:28:42 Africa/Addis_Ababa] Update: {"update_id":611241042,"message":{"message_id":67,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183322,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:28:42 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:28:43 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:28:45 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:28:45 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:28:45 Africa/Addis_Ababa] Update: {"update_id":611241043,"callback_query":{"id":"7106184442406131358","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":68,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183323,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"add_cups"}}
+[20-Dec-2025 01:28:45 Africa/Addis_Ababa] Callback from 8096988441: add_cups
+[20-Dec-2025 01:28:45 Africa/Addis_Ababa] Callback action: add_cups, param: none
+[20-Dec-2025 01:28:46 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:28:48 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:28:48 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:28:48 Africa/Addis_Ababa] Update: {"update_id":611241044,"message":{"message_id":70,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183328,"text":"44"}}
+[20-Dec-2025 01:28:48 Africa/Addis_Ababa] Message from 8096988441: 44
+[20-Dec-2025 01:28:48 Africa/Addis_Ababa] State input: add_cups_user -> 44
+[20-Dec-2025 01:28:49 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:28:51 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:28:51 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:28:51 Africa/Addis_Ababa] Update: {"update_id":611241045,"message":{"message_id":72,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183331,"text":"20"}}
+[20-Dec-2025 01:28:51 Africa/Addis_Ababa] Message from 8096988441: 20
+[20-Dec-2025 01:28:51 Africa/Addis_Ababa] State input: add_cups_amount -> 20
+[20-Dec-2025 01:28:52 Africa/Addis_Ababa] API sendMessage failed: HTTP 400
+[20-Dec-2025 01:28:52 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:28:55 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:28:55 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:28:55 Africa/Addis_Ababa] Update: {"update_id":611241046,"message":{"message_id":74,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183334,"text":"\/cancel","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}
+[20-Dec-2025 01:28:55 Africa/Addis_Ababa] Message from 8096988441: /cancel
+[20-Dec-2025 01:28:55 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:29:00 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:29:00 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:29:00 Africa/Addis_Ababa] Update: {"update_id":611241047,"message":{"message_id":76,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183340,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:29:00 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:29:00 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:29:02 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:29:02 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:29:02 Africa/Addis_Ababa] Update: {"update_id":611241048,"callback_query":{"id":"7106184440472810282","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":77,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183340,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN\n\n\ud83d\udc65 Users: 2\n\ud83d\udd25 Active: 2\n\ud83d\udea8 Reports: 1\n\nSelect option:","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports"},{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"}],[{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"add_cups"}}
+[20-Dec-2025 01:29:02 Africa/Addis_Ababa] Callback from 8096988441: add_cups
+[20-Dec-2025 01:29:03 Africa/Addis_Ababa] Callback action: add_cups, param: none
+[20-Dec-2025 01:29:03 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:29:05 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:29:05 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:29:05 Africa/Addis_Ababa] Update: {"update_id":611241049,"message":{"message_id":79,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183344,"text":"CF7559570162"}}
+[20-Dec-2025 01:29:05 Africa/Addis_Ababa] Message from 8096988441: CF7559570162
+[20-Dec-2025 01:29:05 Africa/Addis_Ababa] State input: add_cups_user -> CF7559570162
+[20-Dec-2025 01:29:05 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:29:10 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:29:10 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:29:10 Africa/Addis_Ababa] Update: {"update_id":611241050,"message":{"message_id":81,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183350,"text":"7559570162"}}
+[20-Dec-2025 01:29:10 Africa/Addis_Ababa] Message from 8096988441: 7559570162
+[20-Dec-2025 01:29:10 Africa/Addis_Ababa] State input: add_cups_user -> 7559570162
+[20-Dec-2025 01:29:10 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:29:13 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:29:13 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:29:13 Africa/Addis_Ababa] Update: {"update_id":611241051,"message":{"message_id":83,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766183352,"text":"8"}}
+[20-Dec-2025 01:29:13 Africa/Addis_Ababa] Message from 8096988441: 8
+[20-Dec-2025 01:29:13 Africa/Addis_Ababa] State input: add_cups_amount -> 8
+[20-Dec-2025 01:29:13 Africa/Addis_Ababa] API sendMessage failed: HTTP 400
+[20-Dec-2025 01:29:14 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:41:55 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:41:55 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:41:55 Africa/Addis_Ababa] Update: {"update_id":611241052,"message":{"message_id":85,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184114,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:41:55 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:41:55 Africa/Addis_Ababa] Quick stats error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[20-Dec-2025 01:41:56 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:42:02 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:42:02 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:42:02 Africa/Addis_Ababa] Update: {"update_id":611241053,"callback_query":{"id":"7106184440123922589","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":86,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184116,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 0\n\ud83d\udd25 Active (24h): 0\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"search_user"}}
+[20-Dec-2025 01:42:02 Africa/Addis_Ababa] Callback from 8096988441: search_user
+[20-Dec-2025 01:42:02 Africa/Addis_Ababa] Callback action: search_user, param: none
+[20-Dec-2025 01:42:03 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:42:08 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:42:09 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:42:09 Africa/Addis_Ababa] Update: {"update_id":611241054,"message":{"message_id":88,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184128,"text":"\/cancel","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}
+[20-Dec-2025 01:42:09 Africa/Addis_Ababa] Message from 8096988441: /cancel
+[20-Dec-2025 01:42:09 Africa/Addis_Ababa] Quick stats error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[20-Dec-2025 01:42:10 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:13 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:14 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:14 Africa/Addis_Ababa] Update: {"update_id":611241055,"callback_query":{"id":"7106184441768737082","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":90,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184130,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 0\n\ud83d\udd25 Active (24h): 0\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports:1"}}
+[20-Dec-2025 01:44:14 Africa/Addis_Ababa] Callback from 8096988441: reports:1
+[20-Dec-2025 01:44:14 Africa/Addis_Ababa] Callback action: reports, param: 1
+[20-Dec-2025 01:44:15 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:19 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:19 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:19 Africa/Addis_Ababa] Update: {"update_id":611241056,"callback_query":{"id":"7106184441825967308","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":90,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184130,"edit_date":1766184255,"text":"\ud83d\udea8 PENDING REPORTS\nPage 1 of 1 \u2022 Total: 1","entities":[{"offset":3,"length":15,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd1e #1 \u2022 Yoni \u2022 3h ago","callback_data":"report_view:1"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"reports:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"report_view:1"}}
+[20-Dec-2025 01:44:19 Africa/Addis_Ababa] Callback from 8096988441: report_view:1
+[20-Dec-2025 01:44:19 Africa/Addis_Ababa] Callback action: report_view, param: 1
+[20-Dec-2025 01:44:20 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:33 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:33 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:33 Africa/Addis_Ababa] Update: {"update_id":611241057,"callback_query":{"id":"7106184443094009548","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":90,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184130,"edit_date":1766184260,"text":"\ud83d\udea8 REPORT DETAILS #1\n\nType: \ud83d\udd1e Sexual Content\nDate: Dec 19, 2025 22:43\nStatus: Pending\n\n\ud83d\udcdd Reporter\nName: Ii\nUsername: @Yyik58ll\nID: 491989978\n\n\u26a0\ufe0f Reported User\n\ud83d\udc68 Name: Yoni\nUsername: @Yadaelaha\nAge: 25\nID: 7559570162\n\n\u2139\ufe0f User is not banned","entities":[{"offset":3,"length":17,"type":"bold"},{"offset":22,"length":5,"type":"bold"},{"offset":46,"length":5,"type":"bold"},{"offset":71,"length":7,"type":"bold"},{"offset":91,"length":8,"type":"bold"},{"offset":119,"length":9,"type":"mention"},{"offset":133,"length":9,"type":"code"},{"offset":147,"length":13,"type":"bold"},{"offset":185,"length":10,"type":"mention"},{"offset":208,"length":10,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Mark as Resolved","callback_data":"report_resolve:1"}],[{"text":"\ud83d\udeab Ban This User","callback_data":"report_ban:1"}],[{"text":"\u25c0\ufe0f Back to Reports","callback_data":"reports:1"}]]}},"chat_instance":"7471590709815020716","data":"report_ban:1"}}
+[20-Dec-2025 01:44:33 Africa/Addis_Ababa] Callback from 8096988441: report_ban:1
+[20-Dec-2025 01:44:34 Africa/Addis_Ababa] Callback action: report_ban, param: 1
+[20-Dec-2025 01:44:34 Africa/Addis_Ababa] API sendMessage failed: HTTP 400
+[20-Dec-2025 01:44:34 Africa/Addis_Ababa] Response: {"ok":false,"error_code":400,"description":"Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 99"}
+[20-Dec-2025 01:44:34 Africa/Addis_Ababa] User 7559570162 banned: Banned from report #1: sexual_content
+[20-Dec-2025 01:44:34 Africa/Addis_Ababa] Callback answered: ✅ User banned
+[20-Dec-2025 01:44:35 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:39 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:40 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:40 Africa/Addis_Ababa] Update: {"update_id":611241058,"callback_query":{"id":"7106184443615504260","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":86,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184116,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 0\n\ud83d\udd25 Active (24h): 0\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"ban_user"}}
+[20-Dec-2025 01:44:40 Africa/Addis_Ababa] Callback from 8096988441: ban_user
+[20-Dec-2025 01:44:40 Africa/Addis_Ababa] Callback action: ban_user, param: none
+[20-Dec-2025 01:44:41 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:43 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:43 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:43 Africa/Addis_Ababa] Update: {"update_id":611241059,"callback_query":{"id":"7106184443167313382","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":86,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184116,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 0\n\ud83d\udd25 Active (24h): 0\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"banned_list:1"}}
+[20-Dec-2025 01:44:43 Africa/Addis_Ababa] Callback from 8096988441: banned_list:1
+[20-Dec-2025 01:44:43 Africa/Addis_Ababa] Callback action: banned_list, param: 1
+[20-Dec-2025 01:44:44 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:48 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:48 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:48 Africa/Addis_Ababa] Update: {"update_id":611241060,"callback_query":{"id":"7106184439683158144","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":86,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184116,"edit_date":1766184284,"text":"\ud83d\udeab BANNED USERS\nPage 1 of 1 \u2022 Total: 1","entities":[{"offset":3,"length":12,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udc68 Yoni \u2022 3h ago","callback_data":"unban:7559570162"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"banned_list:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"unban:7559570162"}}
+[20-Dec-2025 01:44:48 Africa/Addis_Ababa] Callback from 8096988441: unban:7559570162
+[20-Dec-2025 01:44:48 Africa/Addis_Ababa] Callback action: unban, param: 7559570162
+[20-Dec-2025 01:44:49 Africa/Addis_Ababa] Callback answered: ✅ User unbanned
+[20-Dec-2025 01:44:50 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:44:57 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:44:57 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:44:57 Africa/Addis_Ababa] Update: {"update_id":611241061,"callback_query":{"id":"7106184443627895238","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":86,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184116,"edit_date":1766184290,"text":"\ud83d\udeab BANNED USERS\nPage 1 of 1 \u2022 Total: 0\n\nNo banned users.","entities":[{"offset":3,"length":12,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:44:57 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:44:58 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:44:58 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:45:02 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:45:02 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:45:02 Africa/Addis_Ababa] Update: {"update_id":611241062,"callback_query":{"id":"7106184442382522791","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":86,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184116,"edit_date":1766184298,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports:1"}}
+[20-Dec-2025 01:45:02 Africa/Addis_Ababa] Callback from 8096988441: reports:1
+[20-Dec-2025 01:45:03 Africa/Addis_Ababa] Callback action: reports, param: 1
+[20-Dec-2025 01:45:03 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:45:38 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:45:38 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:45:38 Africa/Addis_Ababa] Update: {"update_id":611241063,"message":{"message_id":92,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184337,"text":"7559570162"}}
+[20-Dec-2025 01:45:38 Africa/Addis_Ababa] Message from 8096988441: 7559570162
+[20-Dec-2025 01:45:38 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:45:40 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:45:40 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:45:40 Africa/Addis_Ababa] Update: {"update_id":611241064,"message":{"message_id":94,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184340,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 01:45:40 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 01:45:41 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:45:42 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:45:42 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:45:42 Africa/Addis_Ababa] Update: {"update_id":611241065,"callback_query":{"id":"7106184442424449036","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":95,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184341,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"ban_user"}}
+[20-Dec-2025 01:45:42 Africa/Addis_Ababa] Callback from 8096988441: ban_user
+[20-Dec-2025 01:45:43 Africa/Addis_Ababa] Callback action: ban_user, param: none
+[20-Dec-2025 01:45:44 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:45:46 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:45:46 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:45:46 Africa/Addis_Ababa] Update: {"update_id":611241066,"message":{"message_id":97,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184346,"text":"7559570162"}}
+[20-Dec-2025 01:45:46 Africa/Addis_Ababa] Message from 8096988441: 7559570162
+[20-Dec-2025 01:45:46 Africa/Addis_Ababa] State input: ban_user_id -> 7559570162
+[20-Dec-2025 01:45:47 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:45:57 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:45:57 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:45:57 Africa/Addis_Ababa] Update: {"update_id":611241067,"message":{"message_id":99,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184357,"text":"Conduct report"}}
+[20-Dec-2025 01:45:57 Africa/Addis_Ababa] Message from 8096988441: Conduct report
+[20-Dec-2025 01:45:57 Africa/Addis_Ababa] State input: ban_reason -> Conduct report
+[20-Dec-2025 01:45:58 Africa/Addis_Ababa] User 7559570162 banned: Conduct report
+[20-Dec-2025 01:46:00 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:46:34 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:46:34 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:46:34 Africa/Addis_Ababa] Update: {"update_id":611241068,"callback_query":{"id":"7106184440429430455","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":101,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184359,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 1\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"broadcast"}}
+[20-Dec-2025 01:46:34 Africa/Addis_Ababa] Callback from 8096988441: broadcast
+[20-Dec-2025 01:46:35 Africa/Addis_Ababa] Callback action: broadcast, param: none
+[20-Dec-2025 01:46:36 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:46:39 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:46:39 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:46:39 Africa/Addis_Ababa] Update: {"update_id":611241069,"message":{"message_id":103,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184398,"text":"Hy"}}
+[20-Dec-2025 01:46:39 Africa/Addis_Ababa] Message from 8096988441: Hy
+[20-Dec-2025 01:46:39 Africa/Addis_Ababa] State input: broadcast_message -> Hy
+[20-Dec-2025 01:46:39 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:46:44 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:46:44 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:46:44 Africa/Addis_Ababa] Update: {"update_id":611241070,"message":{"message_id":105,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184403,"text":"Fyhjnchj"}}
+[20-Dec-2025 01:46:44 Africa/Addis_Ababa] Message from 8096988441: Fyhjnchj
+[20-Dec-2025 01:46:44 Africa/Addis_Ababa] State input: broadcast_message -> Fyhjnchj
+[20-Dec-2025 01:46:45 Africa/Addis_Ababa] Broadcast sent: 2 success, 0 failed
+[20-Dec-2025 01:46:47 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:46:55 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:46:55 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:46:55 Africa/Addis_Ababa] Update: {"update_id":611241071,"callback_query":{"id":"7106184441327779833","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":108,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184407,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 1\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"add_cups"}}
+[20-Dec-2025 01:46:55 Africa/Addis_Ababa] Callback from 8096988441: add_cups
+[20-Dec-2025 01:46:56 Africa/Addis_Ababa] Callback action: add_cups, param: none
+[20-Dec-2025 01:46:56 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:46:59 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:46:59 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:46:59 Africa/Addis_Ababa] Update: {"update_id":611241072,"message":{"message_id":110,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184419,"text":"7559570162"}}
+[20-Dec-2025 01:46:59 Africa/Addis_Ababa] Message from 8096988441: 7559570162
+[20-Dec-2025 01:46:59 Africa/Addis_Ababa] State input: add_cups_user -> 7559570162
+[20-Dec-2025 01:47:00 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:05 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:05 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:05 Africa/Addis_Ababa] Update: {"update_id":611241073,"message":{"message_id":112,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184425,"text":"56"}}
+[20-Dec-2025 01:47:05 Africa/Addis_Ababa] Message from 8096988441: 56
+[20-Dec-2025 01:47:05 Africa/Addis_Ababa] State input: add_cups_amount -> 56
+[20-Dec-2025 01:47:06 Africa/Addis_Ababa] Successfully added 56 cups to user 7559570162
+[20-Dec-2025 01:47:07 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:30 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:30 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:30 Africa/Addis_Ababa] Update: {"update_id":611241074,"callback_query":{"id":"7106184442969512180","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 1\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"active_chats:1"}}
+[20-Dec-2025 01:47:30 Africa/Addis_Ababa] Callback from 8096988441: active_chats:1
+[20-Dec-2025 01:47:31 Africa/Addis_Ababa] Callback action: active_chats, param: 1
+[20-Dec-2025 01:47:31 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:34 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:34 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:34 Africa/Addis_Ababa] Update: {"update_id":611241075,"callback_query":{"id":"7106184440024827796","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184451,"text":"\ud83d\udcac ACTIVE CHAT SESSIONS\nPage 1 of 1 \u2022 Total: 0\n\nNo active chats right now.","entities":[{"offset":3,"length":20,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}],[{"text":"\ud83d\udd04 Refresh","callback_data":"active_chats:1"},{"text":"\u25c0\ufe0f Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:47:34 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:47:34 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:47:35 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:39 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:39 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:39 Africa/Addis_Ababa] Update: {"update_id":611241076,"callback_query":{"id":"7106184440346065728","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184455,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 1\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"stats"}}
+[20-Dec-2025 01:47:39 Africa/Addis_Ababa] Callback from 8096988441: stats
+[20-Dec-2025 01:47:40 Africa/Addis_Ababa] Callback action: stats, param: none
+[20-Dec-2025 01:47:41 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:47 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:47 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:47 Africa/Addis_Ababa] Update: {"update_id":611241077,"callback_query":{"id":"7106184440071967863","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184460,"text":"\ud83d\udcca DETAILED STATISTICS\n\n\ud83d\udc65 Users Overview\n\u2022 Total: 2\n\u2022 Active (24h): 2\n\u2022 Active (7d): 2\n\u2022 New (Today): 2\n\u2022 New (7 days): 2\n\n\u26a7\ufe0f Gender Distribution\n\u2022 \ud83d\udc68 Male: 1 (50%)\n\u2022 \ud83d\udc69 Female: 1 (50%)\n\n\u2615\ufe0f Coffee Cups\n\u2022 Total in system: 58\n\u2022 Added today: +62\n\u2022 Used today: -4\n\u2022 Average per user: 29.0\n\n\ud83d\udcac Matching Activity\n\u2022 Active chats now: 0\n\u2022 Matches today: 1\n\u2022 Total sessions: 1\n\u2022 Avg duration: 0min\n\n\ud83d\udea8 Moderation\n\u2022 Pending reports: 0\n\u2022 Banned users: 1\n\nLast updated: Dec 20, 01:47:40","entities":[{"offset":3,"length":19,"type":"bold"},{"offset":24,"length":17,"type":"bold"},{"offset":124,"length":22,"type":"bold"},{"offset":188,"length":14,"type":"bold"},{"offset":287,"length":20,"type":"bold"},{"offset":391,"length":13,"type":"bold"},{"offset":445,"length":30,"type":"italic"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"stats"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:47:47 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:47:48 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:47:48 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:53 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:53 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:53 Africa/Addis_Ababa] Update: {"update_id":611241078,"callback_query":{"id":"7106184443664802296","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184468,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 1\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 01:47:53 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 01:47:54 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 01:47:54 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:47:58 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:47:58 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:47:58 Africa/Addis_Ababa] Update: {"update_id":611241079,"callback_query":{"id":"7106184440222972953","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184474,"text":"\ud83d\udc65 USER LIST\nPage 1 of 1 \u2022 Total: 2","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u26aa\ufe0f \ud83d\udc69 Ii \u2022 28y \u2022 \u2615\ufe0f3","callback_data":"user_detail:491989978"}],[{"text":"\u26aa\ufe0f \ud83d\udc68 Yoni \u2022 25y \u2022 \u2615\ufe0f55","callback_data":"user_detail:7559570162"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"user_detail:7559570162"}}
+[20-Dec-2025 01:47:58 Africa/Addis_Ababa] Callback from 8096988441: user_detail:7559570162
+[20-Dec-2025 01:47:58 Africa/Addis_Ababa] Callback action: user_detail, param: 7559570162
+[20-Dec-2025 01:47:59 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:48:08 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:48:08 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:48:08 Africa/Addis_Ababa] Update: {"update_id":611241080,"callback_query":{"id":"7106184443905109282","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184479,"text":"\ud83d\udc64 USER DETAILS\n\nBasic Info\n\ud83d\udc68 Yoni Vech\nID: 7559570162\nUsername: @Yadaelaha\nAge: 25 years\nGender: Male\nStatus: \u26aa\ufe0f Offline\n\nActivity\n\u2615\ufe0f Coffee cups: 55\n\ud83d\udcac Total chats: 1\n\ud83d\udd25 Active chats: 0\n\ud83d\udcc5 Joined: Dec 19, 2025\n\nModeration\n\ud83d\udea8 Reports against: 1\n\ud83d\udcdd Reports by user: 0\n\n\ud83d\udeab BANNED\nReason: Conduct report","entities":[{"offset":3,"length":12,"type":"bold"},{"offset":17,"length":10,"type":"bold"},{"offset":45,"length":10,"type":"code"},{"offset":66,"length":10,"type":"mention"},{"offset":124,"length":8,"type":"bold"},{"offset":214,"length":10,"type":"bold"},{"offset":273,"length":6,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2795 Add Cups","callback_data":"user_add_cups:7559570162"},{"text":"\ud83d\udcca Stats","callback_data":"user_detail:7559570162"}],[{"text":"\u2705 Unban User","callback_data":"unban:7559570162"}],[{"text":"\u25c0\ufe0f Back to Users","callback_data":"users:1"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 01:48:08 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 01:48:08 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 01:48:09 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:48:10 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:48:10 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:48:10 Africa/Addis_Ababa] Update: {"update_id":611241081,"callback_query":{"id":"7106184440867645660","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184489,"text":"\ud83d\udc65 USER LIST\nPage 1 of 1 \u2022 Total: 2","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u26aa\ufe0f \ud83d\udc69 Ii \u2022 28y \u2022 \u2615\ufe0f3","callback_data":"user_detail:491989978"}],[{"text":"\u26aa\ufe0f \ud83d\udc68 Yoni \u2022 25y \u2022 \u2615\ufe0f55","callback_data":"user_detail:7559570162"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:48:10 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:48:11 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:48:11 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:48:20 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:48:20 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:48:20 Africa/Addis_Ababa] Update: {"update_id":611241082,"callback_query":{"id":"7106184443538727549","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184491,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 1\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"banned_list:1"}}
+[20-Dec-2025 01:48:20 Africa/Addis_Ababa] Callback from 8096988441: banned_list:1
+[20-Dec-2025 01:48:21 Africa/Addis_Ababa] Callback action: banned_list, param: 1
+[20-Dec-2025 01:48:22 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:48:23 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:48:23 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:48:23 Africa/Addis_Ababa] Update: {"update_id":611241083,"callback_query":{"id":"7106184443855259793","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184501,"text":"\ud83d\udeab BANNED USERS\nPage 1 of 1 \u2022 Total: 1","entities":[{"offset":3,"length":12,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udc68 Yoni \u2022 3h ago","callback_data":"unban:7559570162"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"banned_list:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"unban:7559570162"}}
+[20-Dec-2025 01:48:23 Africa/Addis_Ababa] Callback from 8096988441: unban:7559570162
+[20-Dec-2025 01:48:24 Africa/Addis_Ababa] Callback action: unban, param: 7559570162
+[20-Dec-2025 01:48:24 Africa/Addis_Ababa] Callback answered: ✅ User unbanned
+[20-Dec-2025 01:48:25 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:48:29 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:48:29 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:48:29 Africa/Addis_Ababa] Update: {"update_id":611241084,"callback_query":{"id":"7106184440436080549","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184504,"text":"\ud83d\udeab BANNED USERS\nPage 1 of 1 \u2022 Total: 0\n\nNo banned users.","entities":[{"offset":3,"length":12,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:48:29 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:48:30 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:48:30 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:51:46 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:51:46 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:51:46 Africa/Addis_Ababa] Update: {"update_id":611241085,"callback_query":{"id":"7106184442063240604","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184510,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"stats"}}
+[20-Dec-2025 01:51:46 Africa/Addis_Ababa] Callback from 8096988441: stats
+[20-Dec-2025 01:51:47 Africa/Addis_Ababa] Callback action: stats, param: none
+[20-Dec-2025 01:51:48 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:51:52 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:51:52 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:51:52 Africa/Addis_Ababa] Update: {"update_id":611241086,"callback_query":{"id":"7106184441197967427","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184708,"text":"\ud83d\udcca DETAILED STATISTICS\n\n\ud83d\udc65 Users Overview\n\u2022 Total: 2\n\u2022 Active (24h): 2\n\u2022 Active (7d): 2\n\u2022 New (Today): 2\n\u2022 New (7 days): 2\n\n\u26a7\ufe0f Gender Distribution\n\u2022 \ud83d\udc68 Male: 1 (50%)\n\u2022 \ud83d\udc69 Female: 1 (50%)\n\n\u2615\ufe0f Coffee Cups\n\u2022 Total in system: 58\n\u2022 Added today: +62\n\u2022 Used today: -4\n\u2022 Average per user: 29.0\n\n\ud83d\udcac Matching Activity\n\u2022 Active chats now: 0\n\u2022 Matches today: 1\n\u2022 Total sessions: 1\n\u2022 Avg duration: 0min\n\n\ud83d\udea8 Moderation\n\u2022 Pending reports: 0\n\u2022 Banned users: 0\n\nLast updated: Dec 20, 01:51:47","entities":[{"offset":3,"length":19,"type":"bold"},{"offset":24,"length":17,"type":"bold"},{"offset":124,"length":22,"type":"bold"},{"offset":188,"length":14,"type":"bold"},{"offset":287,"length":20,"type":"bold"},{"offset":391,"length":13,"type":"bold"},{"offset":445,"length":30,"type":"italic"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"stats"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"stats"}}
+[20-Dec-2025 01:51:52 Africa/Addis_Ababa] Callback from 8096988441: stats
+[20-Dec-2025 01:51:53 Africa/Addis_Ababa] Callback action: stats, param: none
+[20-Dec-2025 01:51:54 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:51:55 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:51:55 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:51:55 Africa/Addis_Ababa] Update: {"update_id":611241087,"callback_query":{"id":"7106184440164613238","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184714,"text":"\ud83d\udcca DETAILED STATISTICS\n\n\ud83d\udc65 Users Overview\n\u2022 Total: 2\n\u2022 Active (24h): 2\n\u2022 Active (7d): 2\n\u2022 New (Today): 2\n\u2022 New (7 days): 2\n\n\u26a7\ufe0f Gender Distribution\n\u2022 \ud83d\udc68 Male: 1 (50%)\n\u2022 \ud83d\udc69 Female: 1 (50%)\n\n\u2615\ufe0f Coffee Cups\n\u2022 Total in system: 58\n\u2022 Added today: +62\n\u2022 Used today: -4\n\u2022 Average per user: 29.0\n\n\ud83d\udcac Matching Activity\n\u2022 Active chats now: 0\n\u2022 Matches today: 1\n\u2022 Total sessions: 1\n\u2022 Avg duration: 0min\n\n\ud83d\udea8 Moderation\n\u2022 Pending reports: 0\n\u2022 Banned users: 0\n\nLast updated: Dec 20, 01:51:53","entities":[{"offset":3,"length":19,"type":"bold"},{"offset":24,"length":17,"type":"bold"},{"offset":124,"length":22,"type":"bold"},{"offset":188,"length":14,"type":"bold"},{"offset":287,"length":20,"type":"bold"},{"offset":391,"length":13,"type":"bold"},{"offset":445,"length":30,"type":"italic"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"stats"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:51:55 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:51:55 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:51:56 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:51:59 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:51:59 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:51:59 Africa/Addis_Ababa] Update: {"update_id":611241088,"callback_query":{"id":"7106184440193078393","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184716,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 01:51:59 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 01:51:59 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 01:52:00 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:02 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:02 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:02 Africa/Addis_Ababa] Update: {"update_id":611241089,"callback_query":{"id":"7106184442100925260","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184720,"text":"\ud83d\udc65 USER LIST\nPage 1 of 1 \u2022 Total: 2","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u26aa\ufe0f \ud83d\udc69 Ii \u2022 28y \u2022 \u2615\ufe0f3","callback_data":"user_detail:491989978"}],[{"text":"\u26aa\ufe0f \ud83d\udc68 Yoni \u2022 25y \u2022 \u2615\ufe0f55","callback_data":"user_detail:7559570162"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"user_detail:7559570162"}}
+[20-Dec-2025 01:52:02 Africa/Addis_Ababa] Callback from 8096988441: user_detail:7559570162
+[20-Dec-2025 01:52:03 Africa/Addis_Ababa] Callback action: user_detail, param: 7559570162
+[20-Dec-2025 01:52:03 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:05 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:05 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:05 Africa/Addis_Ababa] Update: {"update_id":611241090,"callback_query":{"id":"7106184442779594051","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184723,"text":"\ud83d\udc64 USER DETAILS\n\nBasic Info\n\ud83d\udc68 Yoni Vech\nID: 7559570162\nUsername: @Yadaelaha\nAge: 25 years\nGender: Male\nStatus: \u26aa\ufe0f Offline\n\nActivity\n\u2615\ufe0f Coffee cups: 55\n\ud83d\udcac Total chats: 1\n\ud83d\udd25 Active chats: 0\n\ud83d\udcc5 Joined: Dec 19, 2025\n\nModeration\n\ud83d\udea8 Reports against: 1\n\ud83d\udcdd Reports by user: 0","entities":[{"offset":3,"length":12,"type":"bold"},{"offset":17,"length":10,"type":"bold"},{"offset":45,"length":10,"type":"code"},{"offset":66,"length":10,"type":"mention"},{"offset":124,"length":8,"type":"bold"},{"offset":214,"length":10,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2795 Add Cups","callback_data":"user_add_cups:7559570162"},{"text":"\ud83d\udcca Stats","callback_data":"user_detail:7559570162"}],[{"text":"\ud83d\udeab Ban User","callback_data":"user_ban:7559570162"}],[{"text":"\u25c0\ufe0f Back to Users","callback_data":"users:1"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 01:52:05 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 01:52:05 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 01:52:06 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:07 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:07 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:07 Africa/Addis_Ababa] Update: {"update_id":611241091,"callback_query":{"id":"7106184439907595704","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184726,"text":"\ud83d\udc65 USER LIST\nPage 1 of 1 \u2022 Total: 2","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u26aa\ufe0f \ud83d\udc69 Ii \u2022 28y \u2022 \u2615\ufe0f3","callback_data":"user_detail:491989978"}],[{"text":"\u26aa\ufe0f \ud83d\udc68 Yoni \u2022 25y \u2022 \u2615\ufe0f55","callback_data":"user_detail:7559570162"}],[{"text":"\ud83d\udcc4 1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:52:07 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:52:08 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:52:08 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:12 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:13 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:13 Africa/Addis_Ababa] Update: {"update_id":611241092,"callback_query":{"id":"7106184443469254500","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184728,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"reports:1"}}
+[20-Dec-2025 01:52:13 Africa/Addis_Ababa] Callback from 8096988441: reports:1
+[20-Dec-2025 01:52:13 Africa/Addis_Ababa] Callback action: reports, param: 1
+[20-Dec-2025 01:52:14 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:15 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:15 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:15 Africa/Addis_Ababa] Update: {"update_id":611241093,"callback_query":{"id":"7106184441306459308","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184733,"text":"\ud83d\udea8 PENDING REPORTS\nPage 1 of 1 \u2022 Total: 0\n\n\u2705 No pending reports!\n\nAll caught up! \ud83c\udf89","entities":[{"offset":3,"length":15,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:52:15 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:52:16 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:52:17 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:37 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:37 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:37 Africa/Addis_Ababa] Update: {"update_id":611241094,"callback_query":{"id":"7106184441546894363","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184736,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"analytics"}}
+[20-Dec-2025 01:52:37 Africa/Addis_Ababa] Callback from 8096988441: analytics
+[20-Dec-2025 01:52:38 Africa/Addis_Ababa] Callback action: analytics, param: none
+[20-Dec-2025 01:52:38 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:40 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:40 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:40 Africa/Addis_Ababa] Update: {"update_id":611241095,"callback_query":{"id":"7106184441807478952","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184758,"text":"\ud83d\udcc8 ANALYTICS & INSIGHTS\n\n\ud83d\udcca User Growth (Last 7 Days)\n\u2022 Fri, Dec 19: +2\n\n\ud83d\udc65 Age Distribution\n\u2022 25-29: 2 users\n\n\ud83d\udd25 Most Active Users (30d)\n\ud83e\udd47 Yoni: 1 chats\n\ud83e\udd48 Ii: 1 chats","entities":[{"offset":3,"length":20,"type":"bold"},{"offset":25,"length":28,"type":"bold"},{"offset":73,"length":19,"type":"bold"},{"offset":111,"length":26,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udd04 Refresh","callback_data":"analytics"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:52:40 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:52:41 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:52:42 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:52:44 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:52:44 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:52:44 Africa/Addis_Ababa] Update: {"update_id":611241096,"callback_query":{"id":"7106184442987302628","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184761,"text":"\u2615\ufe0f COFFEE FRIEND ADMIN PANEL\n\n\ud83d\udc65 Total Users: 2\n\ud83d\udd25 Active (24h): 2\n\ud83d\udcac Active Chats: 0\n\ud83d\udea8 Pending Reports: 0\n\ud83d\udeab Banned: 0\n\nSelect an option below:","entities":[{"offset":3,"length":25,"type":"bold"},{"offset":46,"length":1,"type":"bold"},{"offset":65,"length":1,"type":"bold"},{"offset":84,"length":1,"type":"bold"},{"offset":106,"length":1,"type":"bold"},{"offset":119,"length":1,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Statistics","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Active Chats","callback_data":"active_chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udeab Banned Users","callback_data":"banned_list:1"}],[{"text":"\u2795 Add Cups","callback_data":"add_cups"},{"text":"\ud83d\udd0d Search User","callback_data":"search_user"}],[{"text":"\ud83d\udce2 Broadcast","callback_data":"broadcast"},{"text":"\ud83d\udeab Ban User","callback_data":"ban_user"}]]}},"chat_instance":"7471590709815020716","data":"banned_list:1"}}
+[20-Dec-2025 01:52:44 Africa/Addis_Ababa] Callback from 8096988441: banned_list:1
+[20-Dec-2025 01:52:44 Africa/Addis_Ababa] Callback action: banned_list, param: 1
+[20-Dec-2025 01:52:45 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 01:53:14 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 01:53:14 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 01:53:14 Africa/Addis_Ababa] Update: {"update_id":611241097,"callback_query":{"id":"7106184442159605549","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":114,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766184427,"edit_date":1766184765,"text":"\ud83d\udeab BANNED USERS\nPage 1 of 1 \u2022 Total: 0\n\nNo banned users.","entities":[{"offset":3,"length":12,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}],[{"text":"\u25c0\ufe0f Main Menu","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 01:53:14 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 01:53:15 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 01:53:16 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:46:49 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:46:49 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:46:49 Africa/Addis_Ababa] Update: {"update_id":611241098,"message":{"message_id":115,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766185233,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:46:49 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 02:46:50 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:46:50 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:46:50 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:46:50 Africa/Addis_Ababa] Update: {"update_id":611241099,"message":{"message_id":116,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766185240,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:46:50 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 02:46:51 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:46:51 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:46:51 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:46:51 Africa/Addis_Ababa] Update: {"update_id":611241100,"message":{"message_id":117,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766185274,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:46:51 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 02:46:52 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:46:52 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:46:52 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:46:52 Africa/Addis_Ababa] Update: {"update_id":611241103,"message":{"message_id":120,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766187977,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:46:52 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 02:46:53 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:47:00 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:47:00 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:47:00 Africa/Addis_Ababa] Update: {"update_id":611241101,"message":{"message_id":118,"from":{"id":7559570162,"is_bot":false,"first_name":"Yg","username":"Yadaelaha","language_code":"en"},"chat":{"id":7559570162,"first_name":"Yg","username":"Yadaelaha","type":"private"},"date":1766185295,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:47:00 Africa/Addis_Ababa] Message from 7559570162: /start
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] Unauthorized: 7559570162
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] Update: {"update_id":611241102,"message":{"message_id":119,"from":{"id":7559570162,"is_bot":false,"first_name":"Yg","username":"Yadaelaha","language_code":"en"},"chat":{"id":7559570162,"first_name":"Yg","username":"Yadaelaha","type":"private"},"date":1766185349,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] Message from 7559570162: /start
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] Unauthorized: 7559570162
+[20-Dec-2025 02:47:01 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:53:32 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:53:33 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:53:33 Africa/Addis_Ababa] Update: {"update_id":611241104,"message":{"message_id":127,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188412,"text":"\/start","entities":[{"offset":0,"length":6,"type":"bot_command"}]}}
+[20-Dec-2025 02:53:33 Africa/Addis_Ababa] Message from 8096988441: /start
+[20-Dec-2025 02:53:33 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:53:39 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:53:39 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:53:39 Africa/Addis_Ababa] Update: {"update_id":611241105,"callback_query":{"id":"7106184442321826754","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":128,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188413,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 0 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"suspend_user"}}
+[20-Dec-2025 02:53:39 Africa/Addis_Ababa] Callback from 8096988441: suspend_user
+[20-Dec-2025 02:53:40 Africa/Addis_Ababa] Callback action: suspend_user, param: none
+[20-Dec-2025 02:53:40 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:53:47 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:53:47 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:53:47 Africa/Addis_Ababa] Update: {"update_id":611241106,"message":{"message_id":130,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188427,"text":"383838"}}
+[20-Dec-2025 02:53:47 Africa/Addis_Ababa] Message from 8096988441: 383838
+[20-Dec-2025 02:53:47 Africa/Addis_Ababa] State input: suspend_user_id -> 383838
+[20-Dec-2025 02:53:48 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 02:53:51 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 02:53:51 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 02:53:51 Africa/Addis_Ababa] Update: {"update_id":611241107,"message":{"message_id":132,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188431,"text":"\/cancel","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}
+[20-Dec-2025 02:53:51 Africa/Addis_Ababa] Message from 8096988441: /cancel
+[20-Dec-2025 02:53:52 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:14 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:14 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:14 Africa/Addis_Ababa] Update: {"update_id":611241108,"callback_query":{"id":"7106184443756815048","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":134,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188432,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 0 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"users:1"}}
+[20-Dec-2025 03:11:14 Africa/Addis_Ababa] Callback from 8096988441: users:1
+[20-Dec-2025 03:11:15 Africa/Addis_Ababa] Callback action: users, param: 1
+[20-Dec-2025 03:11:15 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:17 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:17 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:17 Africa/Addis_Ababa] Update: {"update_id":611241109,"callback_query":{"id":"7106184440860312473","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":134,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188432,"edit_date":1766189475,"text":"\ud83d\udc65 Users (Page 1\/1)","entities":[{"offset":3,"length":5,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udc69 Yjj, 25 \u00b7 \u2615\ufe0f3","callback_data":"user_detail:491989978"}],[{"text":"1\/1","callback_data":"users:1"}],[{"text":"\u25c0\ufe0f Back","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"user_detail:491989978"}}
+[20-Dec-2025 03:11:17 Africa/Addis_Ababa] Callback from 8096988441: user_detail:491989978
+[20-Dec-2025 03:11:17 Africa/Addis_Ababa] Callback action: user_detail, param: 491989978
+[20-Dec-2025 03:11:18 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:30 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:30 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:30 Africa/Addis_Ababa] Update: {"update_id":611241110,"message":{"message_id":135,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189490,"text":"491989978","entities":[{"offset":0,"length":9,"type":"phone_number"}]}}
+[20-Dec-2025 03:11:30 Africa/Addis_Ababa] Message from 8096988441: 491989978
+[20-Dec-2025 03:11:31 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:38 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:38 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:38 Africa/Addis_Ababa] Update: {"update_id":611241111,"callback_query":{"id":"7106184441503744124","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":134,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766188432,"edit_date":1766189478,"text":"\ud83d\udc69 Yjj Gggg\n\nID: 491989978\nAge: 25\nCoffee: \u2615\ufe0f 3\nChats: 0\nReports: 0\nJoined: Dec 20, 2025","entities":[{"offset":3,"length":8,"type":"bold"},{"offset":17,"length":9,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift_cups:491989978"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend:491989978"}],[{"text":"\u25c0\ufe0f Back","callback_data":"users:1"}]]}},"chat_instance":"7471590709815020716","data":"gift_cups:491989978"}}
+[20-Dec-2025 03:11:38 Africa/Addis_Ababa] Callback from 8096988441: gift_cups:491989978
+[20-Dec-2025 03:11:39 Africa/Addis_Ababa] Callback action: gift_cups, param: 491989978
+[20-Dec-2025 03:11:39 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:44 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:44 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:44 Africa/Addis_Ababa] Update: {"update_id":611241112,"message":{"message_id":138,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189504,"text":"5"}}
+[20-Dec-2025 03:11:44 Africa/Addis_Ababa] Message from 8096988441: 5
+[20-Dec-2025 03:11:44 Africa/Addis_Ababa] State input: gift_cups_amount -> 5
+[20-Dec-2025 03:11:44 Africa/Addis_Ababa] Gift error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'transaction_type' at row 1
+[20-Dec-2025 03:11:45 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:51 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:51 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:51 Africa/Addis_Ababa] Update: {"update_id":611241113,"message":{"message_id":140,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189511,"text":"\/cancel","entities":[{"offset":0,"length":7,"type":"bot_command"}]}}
+[20-Dec-2025 03:11:51 Africa/Addis_Ababa] Message from 8096988441: /cancel
+[20-Dec-2025 03:11:53 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:11:57 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:11:57 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:11:57 Africa/Addis_Ababa] Update: {"update_id":611241114,"callback_query":{"id":"7106184442332907090","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":142,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189513,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"gift"}}
+[20-Dec-2025 03:11:57 Africa/Addis_Ababa] Callback from 8096988441: gift
+[20-Dec-2025 03:11:58 Africa/Addis_Ababa] Callback action: gift, param: none
+[20-Dec-2025 03:11:59 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:12:01 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:12:01 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:12:01 Africa/Addis_Ababa] Update: {"update_id":611241115,"message":{"message_id":144,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189521,"text":"491989978","entities":[{"offset":0,"length":9,"type":"phone_number"}]}}
+[20-Dec-2025 03:12:01 Africa/Addis_Ababa] Message from 8096988441: 491989978
+[20-Dec-2025 03:12:01 Africa/Addis_Ababa] State input: gift_user_id -> 491989978
+[20-Dec-2025 03:12:02 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:12:04 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:12:04 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:12:04 Africa/Addis_Ababa] Update: {"update_id":611241116,"message":{"message_id":146,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189524,"text":"5"}}
+[20-Dec-2025 03:12:04 Africa/Addis_Ababa] Message from 8096988441: 5
+[20-Dec-2025 03:12:04 Africa/Addis_Ababa] State input: gift_cups_amount -> 5
+[20-Dec-2025 03:12:04 Africa/Addis_Ababa] Gift error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'transaction_type' at row 1
+[20-Dec-2025 03:12:05 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:12:10 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:12:10 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:12:10 Africa/Addis_Ababa] Update: {"update_id":611241117,"callback_query":{"id":"7106184442281509817","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":142,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189513,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"suspend_user"}}
+[20-Dec-2025 03:12:10 Africa/Addis_Ababa] Callback from 8096988441: suspend_user
+[20-Dec-2025 03:12:11 Africa/Addis_Ababa] Callback action: suspend_user, param: none
+[20-Dec-2025 03:12:11 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:12:14 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:12:14 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:12:14 Africa/Addis_Ababa] Update: {"update_id":611241118,"message":{"message_id":149,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189534,"text":"491989978","entities":[{"offset":0,"length":9,"type":"phone_number"}]}}
+[20-Dec-2025 03:12:14 Africa/Addis_Ababa] Message from 8096988441: 491989978
+[20-Dec-2025 03:12:14 Africa/Addis_Ababa] State input: suspend_user_id -> 491989978
+[20-Dec-2025 03:12:14 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:12:18 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:12:18 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:12:18 Africa/Addis_Ababa] Update: {"update_id":611241119,"message":{"message_id":151,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189538,"text":"Tt"}}
+[20-Dec-2025 03:12:18 Africa/Addis_Ababa] Message from 8096988441: Tt
+[20-Dec-2025 03:12:18 Africa/Addis_Ababa] State input: suspend_reason -> Tt
+[20-Dec-2025 03:12:19 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:12:23 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:12:23 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:12:23 Africa/Addis_Ababa] Update: {"update_id":611241120,"message":{"message_id":153,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189543,"text":"Hhhtjkkk"}}
+[20-Dec-2025 03:12:23 Africa/Addis_Ababa] Message from 8096988441: Hhhtjkkk
+[20-Dec-2025 03:12:23 Africa/Addis_Ababa] State input: suspend_reason -> Hhhtjkkk
+[20-Dec-2025 03:12:24 Africa/Addis_Ababa] Suspended user 491989978: Hhhtjkkk
+[20-Dec-2025 03:12:25 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:13:04 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:13:04 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:13:04 Africa/Addis_Ababa] Update: {"update_id":611241121,"callback_query":{"id":"7106184443378035192","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":155,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189545,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"gift"}}
+[20-Dec-2025 03:13:04 Africa/Addis_Ababa] Callback from 8096988441: gift
+[20-Dec-2025 03:13:05 Africa/Addis_Ababa] Callback action: gift, param: none
+[20-Dec-2025 03:13:06 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:13:13 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:13:13 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:13:13 Africa/Addis_Ababa] Update: {"update_id":611241122,"callback_query":{"id":"7106184443015176616","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":155,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189545,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"announce"}}
+[20-Dec-2025 03:13:13 Africa/Addis_Ababa] Callback from 8096988441: announce
+[20-Dec-2025 03:13:13 Africa/Addis_Ababa] Callback action: announce, param: none
+[20-Dec-2025 03:13:14 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:13:17 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:13:17 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:13:17 Africa/Addis_Ababa] Update: {"update_id":611241123,"message":{"message_id":158,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189597,"text":"Yygg"}}
+[20-Dec-2025 03:13:17 Africa/Addis_Ababa] Message from 8096988441: Yygg
+[20-Dec-2025 03:13:17 Africa/Addis_Ababa] State input: announce_message -> Yygg
+[20-Dec-2025 03:13:17 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:13:39 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:13:39 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:13:39 Africa/Addis_Ababa] Update: {"update_id":611241124,"message":{"message_id":160,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189619,"text":"Mkuyfxdesqavbhyy7ibb"}}
+[20-Dec-2025 03:13:39 Africa/Addis_Ababa] Message from 8096988441: Mkuyfxdesqavbhyy7ibb
+[20-Dec-2025 03:13:39 Africa/Addis_Ababa] State input: announce_message -> Mkuyfxdesqavbhyy7ibb
+[20-Dec-2025 03:13:41 Africa/Addis_Ababa] Announcement sent to 1 users
+[20-Dec-2025 03:13:42 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:14:03 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:14:03 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:14:03 Africa/Addis_Ababa] Update: {"update_id":611241125,"callback_query":{"id":"7106184443887794946","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"suspended:1"}}
+[20-Dec-2025 03:14:03 Africa/Addis_Ababa] Callback from 8096988441: suspended:1
+[20-Dec-2025 03:14:04 Africa/Addis_Ababa] Callback action: suspended, param: 1
+[20-Dec-2025 03:14:04 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:14:06 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:14:06 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:14:06 Africa/Addis_Ababa] Update: {"update_id":611241126,"callback_query":{"id":"7106184441330836641","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"edit_date":1766189644,"text":"\ud83d\udeab Suspended (Page 1\/1)","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udc69 Yjj \u00b7 3h","callback_data":"restore:491989978"}],[{"text":"1\/1","callback_data":"suspended:1"}],[{"text":"\u25c0\ufe0f Back","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"restore:491989978"}}
+[20-Dec-2025 03:14:06 Africa/Addis_Ababa] Callback from 8096988441: restore:491989978
+[20-Dec-2025 03:14:06 Africa/Addis_Ababa] Callback action: restore, param: 491989978
+[20-Dec-2025 03:14:07 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:14:09 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:14:09 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:14:09 Africa/Addis_Ababa] Update: {"update_id":611241127,"callback_query":{"id":"7106184440902745410","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"edit_date":1766189647,"text":"\ud83d\udeab Suspended (Page 1\/1)\n\nNo suspended users","entities":[{"offset":3,"length":9,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\u25c0\ufe0f Back","callback_data":"menu"}],[{"text":"\u25c0\ufe0f Back","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"menu"}}
+[20-Dec-2025 03:14:09 Africa/Addis_Ababa] Callback from 8096988441: menu
+[20-Dec-2025 03:14:10 Africa/Addis_Ababa] Callback action: menu, param: none
+[20-Dec-2025 03:14:11 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:15:50 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:15:50 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:15:50 Africa/Addis_Ababa] Update: {"update_id":611241128,"callback_query":{"id":"7106184440934198004","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"edit_date":1766189651,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"gift"}}
+[20-Dec-2025 03:15:50 Africa/Addis_Ababa] Callback from 8096988441: gift
+[20-Dec-2025 03:15:51 Africa/Addis_Ababa] Callback action: gift, param: none
+[20-Dec-2025 03:15:51 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:15:54 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:15:54 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:15:54 Africa/Addis_Ababa] Update: {"update_id":611241129,"message":{"message_id":165,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189754,"text":"7559570162"}}
+[20-Dec-2025 03:15:54 Africa/Addis_Ababa] Message from 8096988441: 7559570162
+[20-Dec-2025 03:15:54 Africa/Addis_Ababa] State input: gift_user_id -> 7559570162
+[20-Dec-2025 03:15:54 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] Update: {"update_id":611241130,"message":{"message_id":167,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189757,"text":"66"}}
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] Message from 8096988441: 66
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] State input: gift_cups_amount -> 66
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] Gift error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'transaction_type' at row 1
+[20-Dec-2025 03:15:57 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] Update: {"update_id":611241131,"message":{"message_id":169,"from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189760,"text":"6"}}
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] Message from 8096988441: 6
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] State input: gift_cups_amount -> 6
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] Gift error: SQLSTATE[01000]: Warning: 1265 Data truncated for column 'transaction_type' at row 1
+[20-Dec-2025 03:16:00 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:17:26 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:17:26 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:17:26 Africa/Addis_Ababa] Update: {"update_id":611241132,"callback_query":{"id":"7106184442566348647","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"edit_date":1766189651,"text":"\u2615\ufe0f Coffee Friend Admin\n\n\ud83d\udc65 1 users\n\ud83d\udd25 0 active today\n\ud83d\udcac 0 live chats\n\ud83d\udea8 0 pending reports","entities":[{"offset":3,"length":19,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udcca Stats","callback_data":"stats"},{"text":"\ud83d\udc65 Users","callback_data":"users:1"}],[{"text":"\ud83d\udea8 Reports","callback_data":"reports:1"},{"text":"\ud83d\udcac Chats","callback_data":"chats:1"}],[{"text":"\ud83d\udcc8 Analytics","callback_data":"analytics"},{"text":"\ud83d\udd0d Search","callback_data":"search"}],[{"text":"\ud83c\udf81 Gift Cups","callback_data":"gift"},{"text":"\ud83d\udce2 Announce","callback_data":"announce"}],[{"text":"\ud83d\udeab Suspend","callback_data":"suspend_user"},{"text":"\u2705 Suspended","callback_data":"suspended:1"}]]}},"chat_instance":"7471590709815020716","data":"reports:1"}}
+[20-Dec-2025 03:17:26 Africa/Addis_Ababa] Callback from 8096988441: reports:1
+[20-Dec-2025 03:17:27 Africa/Addis_Ababa] Callback action: reports, param: 1
+[20-Dec-2025 03:17:27 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:17:30 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:17:30 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:17:30 Africa/Addis_Ababa] Update: {"update_id":611241133,"callback_query":{"id":"7106184443112809195","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"edit_date":1766189847,"text":"\ud83d\udea8 Reports (Page 1\/1)","entities":[{"offset":3,"length":7,"type":"bold"}],"reply_markup":{"inline_keyboard":[[{"text":"\ud83d\udca2 Yjj \u00b7 3h","callback_data":"report_view:1"}],[{"text":"1\/1","callback_data":"reports:1"}],[{"text":"\u25c0\ufe0f Back","callback_data":"menu"}]]}},"chat_instance":"7471590709815020716","data":"report_view:1"}}
+[20-Dec-2025 03:17:30 Africa/Addis_Ababa] Callback from 8096988441: report_view:1
+[20-Dec-2025 03:17:31 Africa/Addis_Ababa] Callback action: report_view, param: 1
+[20-Dec-2025 03:17:31 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 03:17:37 Africa/Addis_Ababa] ========== Admin Bot Start ==========
+[20-Dec-2025 03:17:37 Africa/Addis_Ababa] Admin DB connected successfully
+[20-Dec-2025 03:17:37 Africa/Addis_Ababa] Update: {"update_id":611241134,"callback_query":{"id":"7106184442188948911","from":{"id":8096988441,"is_bot":false,"first_name":"Y","username":"Bsbsbwwww1zjdjd","language_code":"en"},"message":{"message_id":163,"from":{"id":8407009490,"is_bot":true,"first_name":"cm","username":"cmwuhuwaikwdojcibot"},"chat":{"id":8096988441,"first_name":"Y","username":"Bsbsbwwww1zjdjd","type":"private"},"date":1766189622,"edit_date":1766189851,"text":"\ud83d\udea8 Report #1\n\nType: Hate Speech\nWhen: 3h\n\nReporter\nFf\n\nReported\n\ud83d\udc69 Yjj, 25\nID: 491989978","entities":[{"offset":3,"length":9,"type":"bold"},{"offset":14,"length":5,"type":"bold"},{"offset":32,"length":5,"type":"bold"},{"offset":42,"length":8,"type":"bold"},{"offset":55,"length":8,"type":"bold"},{"offset":79,"length":9,"type":"code"}],"reply_markup":{"inline_keyboard":[[{"text":"\u2705 Resolve","callback_data":"report_resolve:1"}],[{"text":"\ud83d\udeab Suspend User","callback_data":"report_suspend:1"}],[{"text":"\u25c0\ufe0f Back","callback_data":"reports:1"}]]}},"chat_instance":"7471590709815020716","data":"report_resolve:1"}}
+[20-Dec-2025 03:17:37 Africa/Addis_Ababa] Callback from 8096988441: report_resolve:1
+[20-Dec-2025 03:17:37 Africa/Addis_Ababa] Callback action: report_resolve, param: 1
+[20-Dec-2025 03:17:38 Africa/Addis_Ababa] ========== Admin Bot End ==========
+[20-Dec-2025 15:15:58 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:16:07 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:16:24 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:16:37 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:16:45 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:16:54 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:17:10 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:17:29 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:17:31 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:17:47 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:18:39 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:40:29 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:40:44 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[20-Dec-2025 15:42:14 Africa/Addis_Ababa] Error searching user: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.reports' doesn't exist
+[20-Dec-2025 15:42:22 Africa/Addis_Ababa] Error getting pending reports: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.reports' doesn't exist
+[20-Dec-2025 15:42:59 Africa/Addis_Ababa] Error getting statistics: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[20-Dec-2025 15:43:01 Africa/Addis_Ababa] Error getting statistics: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'coffee_friend_bot.users' doesn't exist
+[21-Dec-2025 00:09:43 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[21-Dec-2025 00:09:48 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[21-Dec-2025 00:10:12 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[21-Dec-2025 00:10:19 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 400
+[21-Dec-2025 19:45:44 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:22:15 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:22:17 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:22:18 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:44:46 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:44:48 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:44:49 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0
+[30-Dec-2025 23:44:50 Africa/Addis_Ababa] API request failed: sendMessage - HTTP 0

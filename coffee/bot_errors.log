@@ -1,0 +1,41 @@
+[30-Dec-2025 23:05:44 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:06:02 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:06:03 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:06:05 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:06:07 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:15:58 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:34 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:35 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:37 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:38 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:39 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:41 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:42 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:44 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:45 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:20:47 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:21:35 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:21:36 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:21:37 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:21:39 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:21:40 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:27:13 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:28:20 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:28:25 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:30:37 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:30:39 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:30:40 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:30:41 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:30:43 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:30:44 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:39:08 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[30-Dec-2025 23:44:37 Africa/Addis_Ababa] API sendMessage failed: HTTP 0
+[31-Dec-2025 20:58:55 Africa/Addis_Ababa] API editMessageReplyMarkup failed: HTTP 400 - Response: {"ok":false,"error_code":400,"description":"Bad Request: message can't be edited"}
+[01-Jan-2026 00:06:41 Africa/Addis_Ababa] API editMessageReplyMarkup failed: HTTP 400 - Response: {"ok":false,"error_code":400,"description":"Bad Request: message can't be edited"}
+[01-Jan-2026 00:07:27 Africa/Addis_Ababa] API editMessageReplyMarkup failed: HTTP 400 - Response: {"ok":false,"error_code":400,"description":"Bad Request: message can't be edited"}
+[01-Jan-2026 00:27:06 Africa/Addis_Ababa] Error ending chat session: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8096988441-8355811425-0' for key 'chat_sessions.unique_active_match'
+[01-Jan-2026 00:27:24 Africa/Addis_Ababa] Error ending chat session: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8096988441-8355811425-0' for key 'chat_sessions.unique_active_match'
+[01-Jan-2026 00:27:27 Africa/Addis_Ababa] Error ending chat session: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8096988441-8355811425-0' for key 'chat_sessions.unique_active_match'
+[01-Jan-2026 00:27:27 Africa/Addis_Ababa] Error ending chat session: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8096988441-8355811425-0' for key 'chat_sessions.unique_active_match'
+[01-Jan-2026 00:27:27 Africa/Addis_Ababa] Error ending chat session: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8096988441-8355811425-0' for key 'chat_sessions.unique_active_match'
+[01-Jan-2026 00:27:28 Africa/Addis_Ababa] Error ending chat session: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '8096988441-8355811425-0' for key 'chat_sessions.unique_active_match'
