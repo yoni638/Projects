@@ -1,7 +1,5 @@
 <?php
 
-// coffee_friend_bot.php
-// Optimized with Telegram Stars payment integration ONLY
 
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
@@ -10,7 +8,7 @@ ini_set('error_log', __DIR__ . '/bot_errors.log');
 
 date_default_timezone_set('Africa/Addis_Ababa');
 
-// Load configuration from secure file
+ 
 $configPath = __DIR__ . '/config.php';
 if (!file_exists($configPath)) {
     error_log("Configuration file not found!");
@@ -18,7 +16,6 @@ if (!file_exists($configPath)) {
 }
 $config = require $configPath;
 
-// Define constants from config
 define('DB_HOST', $config['DB_HOST']);
 define('DB_PORT', $config['DB_PORT']);
 define('DB_USER', $config['DB_USER']);
@@ -29,15 +26,14 @@ define('API_URL', 'https://api.telegram.org/bot' . BOT_TOKEN . '/');
 define('ENCRYPTION_KEY', $config['ENCRYPTION_KEY']);
 define('ADMIN_USERNAME', $config['ADMIN_USERNAME']);
 
-// Bot Configuration
+
 define('MATCH_RADIUS_KM', 48);
 define('INITIAL_FREE_CUPS', 3);
 define('ENCRYPTION_METHOD', 'aes-256-cbc');
 define('MIN_AGE', 18);
 define('MAX_AGE', 100);
 define('REPORT_BAN_THRESHOLD', 3);
-
-// ⭐ TELEGRAM STARS PRICING - SINGLE PACKAGE
+ 
 define('PLAN_STANDARD', ['searches' => 100, 'stars' => 100, 'price_usd' => 1, 'label' => '100 Searches Pack']);
 
 class CoffeeFriendBot {
@@ -452,7 +448,7 @@ class CoffeeFriendBot {
         }
 
         try {
-            // ⭐ HANDLE PRE-CHECKOUT QUERY
+          
             if (isset($this->update['pre_checkout_query'])) {
                 $this->handlePreCheckoutQuery();
                 http_response_code(200);
@@ -489,8 +485,7 @@ class CoffeeFriendBot {
         http_response_code(200);
     }
 
-    // ⭐⭐⭐ TELEGRAM STARS PAYMENT HANDLERS START ⭐⭐⭐
-
+ 
     private function handlePreCheckoutQuery(): void {
         $preCheckoutQuery = $this->update['pre_checkout_query'];
         $queryId = $preCheckoutQuery['id'];
