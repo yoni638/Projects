@@ -1,15 +1,12 @@
 <?php
-// admin_bot.php - Coffee Friend Admin Bot v6.2
-// Comprehensive admin panel with efficient navigation, ban by ID, and broadcast features
-
+ 
 error_reporting(E_ALL);
 ini_set('display_errors', 0);
 ini_set('log_errors', 1);
 ini_set('error_log', __DIR__ . '/admin_errors.log');
 
 date_default_timezone_set('Africa/Addis_Ababa');
-
-// Configuration
+ 
 $configPath = __DIR__ . '/config.php';
 if (!file_exists($configPath)) {
     error_log("Configuration file not found!");
@@ -19,7 +16,7 @@ if (!file_exists($configPath)) {
 
 $config = require $configPath;
 
-// Constants
+ 
 define('ADMIN_BOT_TOKEN', $config['ADMIN_BOT_TOKEN']);
 define('ADMIN_TELEGRAM_ID', $config['ADMIN_TELEGRAM_ID']);
 define('ADMIN_API_URL', 'https://api.telegram.org/bot' . ADMIN_BOT_TOKEN . '/');
@@ -102,7 +99,7 @@ class CoffeeFriendAdminBot {
                 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4
             ");
 
-            // Ensure broadcast_logs table exists
+            
             $this->pdo->exec("
                 CREATE TABLE IF NOT EXISTS broadcast_logs (
                     broadcast_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -522,7 +519,7 @@ class CoffeeFriendAdminBot {
         $this->sendToMainBot($userId, $message);
     }
 
-    // ==================== BAN USER BY ID ====================
+   
 
     private function startBanUser(): void {
         $this->setAdminState('awaiting_user_id_ban', '');
